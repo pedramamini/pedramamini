@@ -1,4 +1,4 @@
-## Biography
+# Biography
 
 * https://www.linkedin.com/in/pedramamini
 * https://twitter.com/pedramamini
@@ -14,27 +14,27 @@ Currently, Pedram focuses the majority of his time on InQuest (http://www.inques
 Pedram authored "Fuzzing: Brute Force Vulnerability Discovery", has presented at BlackHat, DefCon, RECon, Ekoparty, Microsoft Bluehat, ShmooCon, ToorCon and Virus Bulletin, and taught numerous sold out reverse engineering courses. Of particular interest to the vulnerability and exploitation markets and history, see his presentation from Buenos Aires:
 
 Mostrame la guita! Adventures in buying vulnerabilities.
-Slides: http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf
-Blog (archive): https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA
-Video: https://vimeo.com/16856755
+* Slides: http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf
+* Blog (archive): https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA
+* Video: https://vimeo.com/16856755
 
-Publications and Citations
+## Publications and Citations
 Fuzzing: Brute Force Vulnerability Discovery
-http://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119
-Published: July 9, 2007
+* http://www.amazon.com/Fuzzing-Brute-Force-Vulnerability-Discovery/dp/0321446119
+* Published: July 9, 2007
 
 Method and system of using a non-native operating system for scanning and modifying system configuration data of a native operating system
-http://www.google.com/patents/US8812832
-Published: Aug 19, 2014
+* http://www.google.com/patents/US8812832
+* Published: Aug 19, 2014
 
 OpenRCE: Open Reverse Code Engineering Community
-http://www.openrce.org
-Launched: June 1, 2005
+* http://www.openrce.org
+* Launched: June 1, 2005
 
-Citations
+## Citations
 * https://scholar.google.com/citations?user=MiyXXM8AAAAJ
 
-Code
+## Code
 * https://github.com/pedramamini
 * https://gist.github.com/pedramamini
 * http://pedramamini.com/code/
