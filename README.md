@@ -11,12 +11,19 @@ After the HP acquisition in 2010, Pedram founded and developed Jumpshot, a consu
 
 Currently, Pedram focuses the majority of his time on InQuest (https://www.inquest.net). InQuest product provides Deep File Inspection (DFI) for real-time threat detection and "RetroHunting", a novel approach that leverages the power of hindsight to apply todays threat intelligence to yesterday's data. Built by SOC analysts, we specialize in malware analysis at global scale. Follow our research efforts and tap into an everfresh source of data at our open research portal: https://labs.inquest.net
 
-Pedram authored "Fuzzing: Brute Force Vulnerability Discovery", has presented at BlackHat, DefCon, RECon, Ekoparty, Microsoft Bluehat, ShmooCon, ToorCon and Virus Bulletin, and taught numerous sold out reverse engineering courses. Of particular interest to the vulnerability and exploitation markets and history, see his presentation from Buenos Aires:
+Pedram authored "[Fuzzing: Brute Force Vulnerability Discovery](https://pedramamini.com/dropbox/fuzzing.zip)", has presented at BlackHat, DefCon, RECon, Ekoparty, Microsoft Bluehat, ShmooCon, ToorCon and Virus Bulletin, and taught numerous sold out reverse engineering courses. His most recent in-person presentation was at Blackhat USA 2019:
+
+Worm Charming: Harvesting Malware Lures for Fun and Profit
+* [Overview](https://www.blackhat.com/us-19/briefings/schedule/index.html#worm-charming-harvesting-malware-lures-for-fun-and-profit-15536)
+* [Slides](https://i.blackhat.com/USA-19/Wednesday/us-19-Amini-Worm-Charming-Harvesting-Malware-Lures-For-Fun-And-Profit.pdf)
+* [Video](https://www.youtube.com/watch?v=5-1P6G4XJYI)
+
+For an older talk but of particular interest to the vulnerability and exploitation markets and history, see his presentation from Buenos Aires:
 
 Mostrame la guita! Adventures in buying vulnerabilities.
-* Slides: http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf
-* Blog (archive): https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA
-* Video: https://vimeo.com/16856755
+* [Slides](http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf)
+* [Blog (archive)](https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA)
+* [Video](https://vimeo.com/16856755)
 
 ## Publications and Citations
 Fuzzing: Brute Force Vulnerability Discovery
