@@ -18,12 +18,12 @@ Worm Charming: Harvesting Malware Lures for Fun and Profit
 * [Slides](https://i.blackhat.com/USA-19/Wednesday/us-19-Amini-Worm-Charming-Harvesting-Malware-Lures-For-Fun-And-Profit.pdf)
 * [Video](https://www.youtube.com/watch?v=5-1P6G4XJYI)
 
-For an older talk but of particular interest to the vulnerability and exploitation markets and history, see his presentation from Buenos Aires:
-
-Mostrame la guita! Adventures in buying vulnerabilities.
-* [Slides](http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf)
-* [Blog (archive)](https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA)
-* [Video](https://vimeo.com/16856755)
+Recent blogs ([@InQuest](https://inquest.net/blog)):
+* [ZLoader 4.0 Macrosheets Evolution](https://inquest.net/blog/2020/05/06/ZLoader-4.0-Macrosheets-)
+* [Getting Sneakier: Hidden Sheets, Data Connections, and XLM Macros](https://inquest.net/blog/2020/03/18/Getting-Sneakier-Hidden-Sheets-Data-Connections-and-XLM-Macros)
+* [Adobe XMP: Tales of an Overlooked Anchor](https://inquest.net/blog/2019/09/30/Adobe-XMP-Tales-of-an-Overlooked-Anchor)
+* [Base64 Encoded Powershell Pivots](https://inquest.net/blog/2019/07/19/base64-encoded-powershell-pivots)
+* [Extracting "Sneaky" Excel XLM Macros](https://inquest.net/blog/2019/01/29/Carving-Sneaky-XLM-Files)
 
 ## Publications and Citations
 Fuzzing: Brute Force Vulnerability Discovery
@@ -45,3 +45,11 @@ Citations
 * https://github.com/pedramamini
 * https://gist.github.com/pedramamini
 * http://pedramamini.com/code/
+
+## Digging Deeper
+For an older talk but of particular interest to the vulnerability and exploitation markets and history, see his presentation from EkoParty Buenos Aires 2009 titled "Mostrame la guita! Adventures in buying vulnerabilities":
+* [Slides](http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf)
+* [Blog (archive)](https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA)
+* [Video](https://vimeo.com/16856755)
+
+If you want to take a gander at a much younger albeit fatter Pedram, he's archived here unveiling the [Paimei](https://github.com/OpenRCE/paimei) reverse engineering framework at the first [RECON conference in Montreal](https://archive.org/details/Pedram_Amini_PaiMei_and_the_Five_Finger_Exploding_Palm_RE_Techniques).
