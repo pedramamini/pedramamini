@@ -2,6 +2,7 @@
 
 * https://www.linkedin.com/in/pedramamini
 * https://twitter.com/pedramamini
+* http://pedramamini.com
 
 Currently, Pedram focuses the majority of his time on InQuest (https://www.inquest.net). InQuest delivers two key technologies, Deep File Inspection (DFI) for real-time threat detection and "RetroHunting", a novel approach that leverages the power of hindsight to apply todays threat intelligence to yesterday's data. Commercially available as a SaaS email security add-on for Google Workspace (GSuite) / Microsoft O365, as a high-throughput on-premise network appliance, or via API. InQuest excels at malware analysis at global scale, you can follow our research efforts and tap into an everfresh source of data at our open research portal: https://labs.inquest.net
 
