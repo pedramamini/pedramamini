@@ -20,6 +20,7 @@ Worm Charming: Harvesting Malware Lures for Fun and Profit
 * [Video](https://www.youtube.com/watch?v=5-1P6G4XJYI)
 
 Recent blogs ([@InQuest](https://inquest.net/blog)):
+* [Follina, the Latest in a Long Chain of Microsoft Office Exploits](https://inquest.net/blog/2022/06/23/follina-latest-long-chain-microsoft-office-exploits)
 * [ZLoader 4.0 Macrosheets Evolution](https://inquest.net/blog/2020/05/06/ZLoader-4.0-Macrosheets-)
 * [Getting Sneakier: Hidden Sheets, Data Connections, and XLM Macros](https://inquest.net/blog/2020/03/18/Getting-Sneakier-Hidden-Sheets-Data-Connections-and-XLM-Macros)
 * [Adobe XMP: Tales of an Overlooked Anchor](https://inquest.net/blog/2019/09/30/Adobe-XMP-Tales-of-an-Overlooked-Anchor)
