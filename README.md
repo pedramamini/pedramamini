@@ -50,7 +50,7 @@ Citations
 
 ## Digging Deeper
 For an older talk but of particular interest to the vulnerability and exploitation markets and history, see his presentation from EkoParty Buenos Aires 2009 titled "Mostrame la guita! Adventures in buying vulnerabilities":
-* [Slides](http://www.ekoparty.org/archive/2009/Mostrame_la_guita_.pdf)
+* [Slides](https://docs.google.com/presentation/d/1h5ZjP4mv58L_SqWaLRJxV3cyxFnE2O0BBupeCmg7K7o/edit?usp=sharing)
 * [Blog (archive)](https://www.evernote.com/l/AAT5zNw4EfFIM6b7j8F8YG-2eB1wr1qCSxA)
 * [Video](https://vimeo.com/16856755)
 
