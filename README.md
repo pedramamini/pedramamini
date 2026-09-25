@@ -1,12 +1,12 @@
 # Biography
 
 * https://www.linkedin.com/in/pedramamini
-* https://twitter.com/pedramamini
+* https://x.com/pedramamini
 * http://pedramamini.com
 
-In his copious free time, Pedram has been obsessed with agentic engineering and has been vibing hard on [RunMaestro.ai](https://runmaestro.ai)... an [open-source]([url](https://github.com/RunMaestro/Maestro/)) cross-platform desktop app for delightfully orchestrating agents both locally and over SSH. Currently supports Claude Code, OpenAI Codex, OpenCode, Factory.ai Droid and Gemini-CLI. Manage agents interactively in parallel or have them run unattended for days via Maestro Playbooks. 
+Currently, Pedram has been obsessed with agentic engineering and has been vibing hard on [RunMaestro.ai](https://runmaestro.ai)... an [open-source]([url](https://github.com/RunMaestro/Maestro/)) cross-platform desktop app for delightfully orchestrating agents both locally and over SSH. It supports 11 harnesses currently, including Claude Code, OpenAI Codex, OpenCode, AntiGravity, OMP, Co-Pilot, and Hermes. Manage agents interactively in parallel or have them run unattended for days via Maestro Playbooks. 
 
-Pedram serves as the Chief Scientist at OPSWAT, dedicating his expertise to advancing machine learning, threat intelligence, and spearheading R&D innovation across diverse security solutions. In 2024, OPSWAT acquired InQuest, where Pedram was the CTO of a pioneering startup committed to safeguarding DoD users globally. At InQuest, he developed two flagship technologies: Deep File Inspection (DFI) for real-time threat detection, and "RetroHunting," a revolutionary method that applies today's threat intelligence to past data. InQuest was renowned for its large-scale malware analysis, threat intelligence, and open community research portal InQuest Labs, which was launched at Blackhat 2019 and sadly has been shuttered since the acquisition.
+Most recently Pedram served as the Chief Scientist at OPSWAT, dedicating his expertise to advancing machine learning, threat intelligence, and spearheading R&D innovation across diverse security solutions. In 2024, OPSWAT acquired InQuest, where Pedram was the CTO of a pioneering startup committed to safeguarding DoD users globally. At InQuest, he developed two flagship technologies: Deep File Inspection (DFI) for real-time threat detection, and "RetroHunting," a revolutionary method that applies today's threat intelligence to past data. InQuest was renowned for its large-scale malware analysis, threat intelligence, and open community research portal InQuest Labs, which was launched at Blackhat 2019 and sadly has been shuttered since the acquisition.
 
 Pedram also holds advisory roles at Mozilla for their GenAI Bug Bounty program 0DIN.ai, Exodus Intelligence (https://exodusintel.com), and AttackIQ (https://attackiq.com). Beyond his professional achievements, he is an angel investor, Austin business owner (https://sanjacsaloon.com), and a Jiu-Jitsu aficionado (https://bteamjj.com).
 
